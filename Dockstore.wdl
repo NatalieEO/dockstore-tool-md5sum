@@ -1,4 +1,4 @@
-task md5 {
+task md5
   File inputFile
 
   command {
