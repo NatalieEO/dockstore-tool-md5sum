@@ -2,3 +2,6 @@ version: 1.2
 tools:
    - subclass: cwl
      primaryDescriptorPath: /Dockstore.cwl
+workflows:
+   - subclass: cwl
+     primaryDescriptorPath: /hello-workflow/HelloWorld.cwl
